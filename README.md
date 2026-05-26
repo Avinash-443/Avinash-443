@@ -222,3 +222,5 @@ https://personal-portfolio-ten-drab-33.vercel.app/
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6A5ACD,25:36BCF7,50:8A2BE2,75:FF69B4,100:00FFFF"/>
 
 </div>
+
+<!-- trigger actions -->
