@@ -207,14 +207,6 @@ https://personal-portfolio-ten-drab-33.vercel.app/
 
 ---
 
-# 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- Coming Soon...
-<!-- YOUTUBE:END -->
-
----
-
 <div align="center">
 
 ### "Code is where ideas become reality."
